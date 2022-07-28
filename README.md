@@ -1,0 +1,2 @@
+# negociacoes
+Utilizando TypeScript
